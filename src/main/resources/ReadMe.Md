@@ -1,0 +1,1 @@
+run application and hit localhost:8761 to view registered service
